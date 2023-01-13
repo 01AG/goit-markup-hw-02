@@ -69,7 +69,9 @@ body {
     color: #FFFFFF;
 }
 .hero-button {
+    font-family: 'Roboto' , sans-serif;
     font-weight: 500;
+    font-size: 16px;
     line-height: 1.5;    
     display: flex;
     align-items: center;
@@ -120,7 +122,9 @@ body {
     color: var(--primery-text-color);
   }
   .filter-button {
+    font-family: 'Roboto' , sans-serif;
     font-weight: 500;
+    font-size: 16px;
     line-height: 1.5;
     display: flex;
     align-items: center;
